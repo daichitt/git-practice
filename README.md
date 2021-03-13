@@ -7,5 +7,5 @@ no-fast-farwerdでブランチの変更
 <!-- conflictブランチで変更
 >>>>>>> conflict -->
 =======
-Githib上で更新
+Confrict上で更新(コンフリクトが発生します)
 >>>>>>> cd10d27cf61b7d803c2e4f1dbb4325faffa9ff77
